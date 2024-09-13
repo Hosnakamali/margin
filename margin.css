@@ -1,0 +1,16 @@
+.margin{
+    background-color: paleturquoise;
+    width: 200px;
+    height: 200px;
+    border: black 5px solid;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+.collapse{
+    background-color: pink;
+    border: black 5px solid;
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    padding: 10px;
+}
